@@ -15,7 +15,7 @@
 
 ### Demo Screeshots
 
-![CoinNest Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![CoinNest Desktop Demo](./readme-images/desktop.jpeg "Desktop Demo")
 
 ### Prerequisites
 
